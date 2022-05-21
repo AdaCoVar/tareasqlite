@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Mapeo Empresas"
+        android:icon="@drawable/ic_android_black_24dp"
+        />
+    <item
+        android:id="@+id/option2"
+        android:title="Subdepartamentos"
+        android:icon="@drawable/ic_android_black_24dp"
+        />
+
+
+</menu>
